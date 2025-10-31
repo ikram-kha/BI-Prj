@@ -1,3 +1,1 @@
-CREATE DATABASE DataWarehouseNorthwind_DW;
-GO
-USE DataWarehouseNorthwind_DW;
+delete SQLQuery1.sql
